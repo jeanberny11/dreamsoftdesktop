@@ -1,0 +1,35 @@
+* {
+-fx-primary:#9387f7;
+-fx-primarydark:#605ac4;
+-fx-primaryaccent:#988bff;
+-fx-backgroundcolor:#e0deeb;
+-fx-secondary:#B0E0F3;
+-fx-accent:#E9EB5F;
+-fx-primarytext:#FFFFFF;
+-fx-secondarytext:#000000;
+}
+
+.form{
+    -fx-border-color: #C4C4C4;
+    -fx-background-radius: 10 10 0 0;
+    -fx-border-radius: 10 10 0 0;
+}
+
+.titlepane{
+-fx-background-color: -fx-primarydark;
+ -fx-border-color: transparent transparent #C4C4C4 transparent;
+ -fx-background-radius: 10 10 0 0; -fx-border-radius: 10 10 0 0;
+}
+
+.tilelabe{
+    -fx-font-weight: bold;
+    -fx-font-family: "Roboto";
+    -fx-text-fill:white;
+    -fx-font-size:16px;
+}
+
+.iconbutton{
+    -fx-background-color:-fx-primarydark;
+    -fx-background-radius: 8,7,6;  -fx-background-insets: 0,1,2;  -fx-text-fill: white;
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 5, 0.0 , 0 , 1 );
+}

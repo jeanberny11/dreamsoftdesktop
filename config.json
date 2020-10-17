@@ -1,0 +1,13 @@
+{
+  "jdbcurl": "jdbc:postgresql://",
+  "port": "5432",
+  "server1": "localhost",
+  "server2": "localhost",
+  "database1": "dreamsoftdb",
+  "database2": "nothing",
+  "userdb1": "postgres",
+  "userdb2": "postgres",
+  "passworddb1": "letmein",
+  "passworddb2": "letmein",
+  "multidb": false
+}

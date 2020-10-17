@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/datamodule/datamodule.iml" filepath="$PROJECT_DIR$/datamodule/datamodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dreamsoftcomponent/dreamsoftcomponent.iml" filepath="$PROJECT_DIR$/dreamsoftcomponent/dreamsoftcomponent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dreamsoftdesktop.iml" filepath="$PROJECT_DIR$/dreamsoftdesktop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logicmodule/logicmodule.iml" filepath="$PROJECT_DIR$/logicmodule/logicmodule.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,42 @@
+.dstextfield:emptyvalidation{
+    -fx-focus-color: red;
+    -fx-faint-focus-color: #ff000000;
+    -fx-effect: dropshadow(gaussian , #ff0000, 10, 0.1, 0, 0)
+}
+
+
+
+/*
+.menulistcell {
+    -fx-background-color: transparent;
+    -fx-font-size:10px;
+    -fx-font-weight: bold;
+    -fx-font-family: "Roboto";
+    -fx-text-fill:white;
+    -fx-padding:5px;
+}
+
+.menulistcell:hover{
+    -fx-background-color: derive(-fx-primarydark,20%);
+}
+.menulistcell:pressed{
+    -fx-background-color: derive(-fx-primarydark,50%);
+    -fx-effect: dropshadow( three-pass-box , -fx-primaryaccent , 5, 0.0 , 0 , 1 );
+}
+.menulistcell:focused{
+    -fx-background-color: -fx-primarydark;
+}
+.menulistcell:focused:hover{
+    -fx-background-color: derive(-fx-primarydark,20%);
+}
+.menulistcell:focused:pressed{
+    -fx-background-color: derive(-fx-primarydark,35%);
+    -fx-effect: dropshadow( three-pass-box , -fx-primaryaccent , 5, 0.0 , 0 , 1 );
+}
+.menulist {
+    -fx-background-color: -fx-primary;
+        -fx-border-color:white;
+        /*-fx-border-radius:5px;
+        -fx-border-width:2px;
+}*/
+/* end listview*/
